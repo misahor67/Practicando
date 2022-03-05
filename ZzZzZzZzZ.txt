@@ -1,6 +1,8 @@
 int main(){
     if(i<2){
         /*Header*/
+        i=i+1;
+        -El peluca sapeee-
     }
     else{
         /*Footer*/
