@@ -1,1 +1,8 @@
-TOMA TOMA TOMA TOMA TOMA
+int main(){
+    if(i<2){
+        /*Header*/
+    }
+    else{
+        /*Footer*/
+    }
+}    
