@@ -5,6 +5,8 @@ int main(){
         -El peluca sapeee-
     }
     else{
+        i=0;
+        -En un lugar, más frio que culo de pinguino-
         /*Footer*/
     }
 }    
