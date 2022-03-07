@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-A mi me gusta comer carapulcra
-=======
 A mi me gusta comer causa
->>>>>>> probando1
 
 También me gusta ver películas con mi familia
 
@@ -10,3 +6,4 @@ Me gustan los perros y gatos
 
 A él le gustan los chupetines.
 
+Los mejores animales del mundo son los perros y gatos
